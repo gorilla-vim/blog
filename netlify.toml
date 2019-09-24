@@ -6,3 +6,9 @@ command = "hugo -s ./hugo"
 HUGO_VERSION = "0.58.3"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.58.3"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.58.3"
