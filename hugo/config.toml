@@ -1,9 +1,6 @@
 languageCode = "ja"
-theme = "m10c"
+theme = "ananke"
 title = "ゴリラ.vim（仮"
 
 [params]
   commentoEnable = true
-  author = "ゴリラさん"
-  description = "霊長目ヒト科ゴリラ属"
-  avatar = "gorilla_400x400.jpg"
