@@ -1,8 +1,8 @@
 ---
-title: "ウッホホーイ"
+title: "テスト投稿"
 date: 2019-09-20T00:30:29Z
 draft: false
-description: "ウッホホーイ！HUGOで作ったブログの初投稿記事だよ！やったね！"
+description: "HUGOで作ったブログの記事投稿テスト"
 categories:
   - "example"
   - "test"
