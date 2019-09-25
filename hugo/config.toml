@@ -1,9 +1,45 @@
 languageCode = "ja"
-theme = "m10c"
-title = "ゴリラ.vim（仮"
+theme = "cayman-hugo-theme"
 
 [params]
   commentoEnable = true
-  author = "ゴリラさん"
-  description = "霊長目ヒト科ゴリラ属"
-  avatar = "/img/gorilla_800x645.jpeg"
+  project_name = "ゴリラ.vim（仮"
+  project_tagline = "Vimmerの集い。"
+
+  # Header colors
+  header_heading_color = "#fff"
+  header_background_color = "#159957"
+  header_background_color_secondary = "#155799"
+
+  # Text colors
+  section_headings_color = "#159957"
+  body_text_color = "#606c71"
+  body_link_color = "#1e6bb8"
+  blockquote_text_color = "#819198"
+
+  # Code colors
+  code_background_color = "#f3f6fa"
+  code_text_color = "#567482"
+
+  # Border colors
+  border_color = "#dce6f0"
+  table_border_color = "#e9ebec"
+  hr_border_color = "#eff0f1"
+
+[menu]
+  [[menu.nav]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 2 
+  [[menu.nav]]
+    name = "Next event"
+    url = "/next-event/"
+    weight = 3
+  [[menu.nav]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
