@@ -41,9 +41,25 @@ docker-compose up -d
 
 整理中
 
+# ランディングページの作成方法
+
+`hugo/content/`ディレクトリ配下に.mdファイルを置く。ルートも自動で設定される。
+
+```
+# 例：下記の場合、about、contact、next-eventのページが設定される。
+# posts/ディレクトリにはブログ記事を置く。
+
+content
+├── about.md
+├── contact.md
+├── next-event.md
+└── posts
+    └── 1st-post.md
+```
+
 # 本番へのデプロイ
 
-Netlifyで公開します。（netlifyのアカウントをどうするかは要相談）
+Netlifyで公開します。
 
 developブランチまたはfeatureブランチを切って記事を書き、masterへのプルリク時にNetlify側でCIが走ります。
 
