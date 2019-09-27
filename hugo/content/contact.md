@@ -2,11 +2,11 @@
 title: "お問い合わせ"
 date: 2019-09-20T00:30:29Z
 draft: false
-description: "ゴリラ.vimとは"
+description: "ゴリラ.vimのお問い合わせ先"
 ---
 
-イントロ
+質問等ありましたら メール や Twitter でお問い合わせください。
 
-<!--more-->
-
-ボディコピー
+Mail: gorilla.vim[at]gmail.com  
+Twitter: 準備中  
+Slack: 準備中
