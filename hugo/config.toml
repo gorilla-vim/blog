@@ -1,10 +1,13 @@
 languageCode = "ja"
 theme = "cayman-hugo-theme"
+title = "ゴリラ.vim"
+description = "Vimの勉強会・情報交換・交流を目的としたコミュニティ、ゴリラ.vimのウェブサイト"
 
 [params]
   commentoEnable = true
   project_name = "ゴリラ.vim（仮"
   project_tagline = "Vimmerの集い。"
+
 
   # Header colors
   header_heading_color = "#fff"
