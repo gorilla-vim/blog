@@ -1,13 +1,13 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
+title: Vimmer達の集い
+description: ゴリラ.vimはVimを愛するVimmer達の集いの会です。 知見の共有と親睦を深めることを目的としています。月一ペースで都内で場所を借りて、LTや懇親会をします。
+description2 :
+aboutItem :
   - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-    
+    title: 知見の共有
+    content: 初心者から玄人まで、様々なレベル、業種のエンジニアが集い、LTで知見を共有しています。
+
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title: 交流
+    content: バナナなどの軽食をとりながら、交流を深めています。

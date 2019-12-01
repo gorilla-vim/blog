@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : Our
 headingSpan : Skills
 title : We’ve skilled in wide range of web and Other digital market tools.
@@ -8,19 +8,19 @@ skillItem :
   - itemNumber : 01-
     itemName :  Business Development
     itemPercent : 90%
-    
+
   - itemNumber : 02-
     itemName :  Analysis
     itemPercent : 70%
-    
+
   - itemNumber : 03-
     itemName :  Design
     itemPercent : 80%
-    
+
   - itemNumber : 04-
     itemName :  IOS Development
     itemPercent : 95%
-    
+
   - itemNumber : 05-
     itemName :  Andriod Development
     itemPercent : 75%
