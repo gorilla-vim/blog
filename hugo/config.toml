@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+# baseURL = "http://localhost:1313/"
+baseURL = "https://adoring-hugle-a636fd.netlify.com/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 title = "ゴリラ.vim"
