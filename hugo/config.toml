@@ -1,48 +1,137 @@
+baseURL = "http://localhost:1313/"
 languageCode = "ja"
-theme = "cayman-hugo-theme"
+DefaultContentLanguage = "ja"
 title = "ゴリラ.vim"
-description = "Vimの勉強会・情報交換・交流を目的としたコミュニティ、ゴリラ.vimのウェブサイト"
+theme = "meghna-hugo"
+summaryLength = 10
 
-[params]
-  commentoEnable = true
-  project_name = "ゴリラ.vim（仮"
-  project_tagline = "Vimmerの集い。"
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
 
-
-  # Header colors
-  header_heading_color = "#fff"
-  header_background_color = "#159957"
-  header_background_color_secondary = "#155799"
-
-  # Text colors
-  section_headings_color = "#159957"
-  body_text_color = "#606c71"
-  body_link_color = "#1e6bb8"
-  blockquote_text_color = "#819198"
-
-  # Code colors
-  code_background_color = "#f3f6fa"
-  code_text_color = "#567482"
-
-  # Border colors
-  border_color = "#dce6f0"
-  table_border_color = "#e9ebec"
-  hr_border_color = "#eff0f1"
-
+# Menu
 [menu]
-  [[menu.nav]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
+    [[menu.nav]]
     name = "About"
-    url = "/about/"
-    weight = 2 
-  [[menu.nav]]
-    name = "Next event"
-    url = "/next-event/"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
     weight = 3
-  [[menu.nav]]
-    name = "Contact"
-    url = "/contact/"
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
     weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area3.jpg"
+    icon = "tf-ion-play"
+    heading = "ゴリラ.vim"
+    content= "Vimmerの集い"
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"

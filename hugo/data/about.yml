@@ -1,0 +1,17 @@
+enable : true
+heading : ゴリラ.vim
+headingSpan : とは
+aboutItem :
+  #- icon : tf-tools
+  #  title : We're Creative
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #
+  #- icon : tf-strategy
+  #  title : We're Professional
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #
+  #- icon : tf-anchor2
+  #  title : We're Genius
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  #
+- content: Vimmerの集いの会です。 知見の共有と親睦を深めることを目的としています。月一ペースで都内で場所を借りて、LTや懇親会をします。スポンサー（協賛）：Forkwell（株式会社grooves） / ソニー株式会社

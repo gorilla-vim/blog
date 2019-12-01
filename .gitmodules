@@ -7,3 +7,6 @@
 [submodule "hugo/themes/cayman-hugo-theme"]
 	path = hugo/themes/cayman-hugo-theme
 	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
+[submodule "hugo/themes/meghna-hugo"]
+    path = hugo/themes/meghna-hugo
+    url = https://github.com/themefisher/meghna-hugo.git
