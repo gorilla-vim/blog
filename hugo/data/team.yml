@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : Our
 headingSpan : Team
 teamMember :
@@ -15,7 +15,7 @@ teamMember :
         url : "#"
       - icon : tf-ion-social-dribbble-outline
         url : "#"
-      
+
   - image : images/team/team-2.jpg
     name : Frank Miller
     designation : Manager
@@ -29,7 +29,7 @@ teamMember :
         url : "#"
       - icon : tf-ion-social-dribbble-outline
         url : "#"
-      
+
   - image : images/team/team-3.jpg
     name : Michael Jonson
     designation : Web Developer
@@ -43,7 +43,7 @@ teamMember :
         url : "#"
       - icon : tf-ion-social-dribbble-outline
         url : "#"
-      
+
   - image : images/team/team-4.jpg
     name : Mo. Kha. Alamgir
     designation : SEO Specialist

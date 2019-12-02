@@ -57,13 +57,13 @@ custom_css = ["css/custom.css"]
     icon = "tf-ion-play"
     heading = "ゴリラ.vim"
     content= "Vimmerの集い"
-    btn = true
+    btn = false
     btnText="Explore Us"
     btnURL="#services"
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
@@ -71,7 +71,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
@@ -98,31 +98,10 @@ custom_css = ["css/custom.css"]
         copyright = "Themefisher"
         copyrightURL = "http://www.themefisher.com"
 
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "#"
 
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
         url = "#"
