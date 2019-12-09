@@ -22,20 +22,20 @@ summaryLength = 10
     URL = "portfolio"
     weight = 3
 
-    [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 4
+#    [[menu.nav]]
+#    name = "Team"
+#    URL = "our-team"
+#    weight = 4
 
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
-    weight = 5
+    weight = 4
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 6
+    weight = 5
 
 # Site params
 [params]

@@ -1,6 +1,6 @@
 enable : true
-heading: ブログ
-headingSpan: です
+#heading: ブログ
+#headingSpan: です
 sharing : true
 staticmanComments:
   enable: false

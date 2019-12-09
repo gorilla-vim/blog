@@ -1,6 +1,6 @@
 ---
 title: "ゴリラ.vimの勉強会#8を開催しました"
-date: 2019-09-20T00:30:29Z
+date: 2019-09-20t00:30:29z
 draft: false
 description: "ゴリラ.vimの勉強会（8回目）を開催しました。入力補完のプラグイン、ライブコーディング、オレオレvimrcの公開、vimでdockerのコマンドやモニタリングができるプラグイン、vimに出会った話など、実用的なものからエモい話まで、濃い情報がシェアされました。"
 categories:
@@ -43,13 +43,13 @@ lspは補完だけじゃない
 ## Flutter + Vim ライブコーディング
 yasukotelin
 
-ダートプラグイン syntax highlight 
+ダートプラグイン syntax highlight
 
 Flutterは便利
 
 Androidの開発もFlutterで。
 
-## 自分のvimrcについて	
+## 自分のvimrcについて
 
 pocke
 
