@@ -2,6 +2,8 @@
 title: "ゴリラ.vimの勉強会#8を開催しました"
 date: 2019-09-20t00:30:29z
 draft: false
+author: hoda
+image: images/blog/blog-post-2.jpg
 description: "ゴリラ.vimの勉強会（8回目）を開催しました。入力補完のプラグイン、ライブコーディング、オレオレvimrcの公開、vimでdockerのコマンドやモニタリングができるプラグイン、vimに出会った話など、実用的なものからエモい話まで、濃い情報がシェアされました。"
 categories:
   - "blog"

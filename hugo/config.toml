@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ja"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 title = "ゴリラ.vim"
 theme = "meghna-hugo"
 summaryLength = 10
@@ -22,11 +22,6 @@ summaryLength = 10
     URL = "portfolio"
     weight = 3
 
-#    [[menu.nav]]
-#    name = "Team"
-#    URL = "our-team"
-#    weight = 4
-
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
@@ -40,7 +35,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/gorilla-logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
