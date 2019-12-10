@@ -1,6 +1,6 @@
 ---
 title: "ゴリラ.vimの勉強会#8を開催しました"
-date: 2019-09-20t00:30:29z
+date: 2019-09-20
 draft: false
 author: hoda
 image: images/blog/blog-post-2.jpg
