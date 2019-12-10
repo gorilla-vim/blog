@@ -36,12 +36,12 @@ summaryLength = 10
 [params]
 home= "Home"
 logo = "images/gorilla-logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = "Vimを愛するVimmer達の知見の共有と親睦を深めるコミュニティ、ゴリラ.vimのコーポレートサイトです。懇親会の情報や活動内容などをまとめています。"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
 
     # Banner Section
@@ -54,38 +54,6 @@ custom_css = ["css/custom.css"]
     btn = false
     btnText="Explore Us"
     btnURL="#services"
-
-    # call to action
-    [params.cta]
-    enable = false
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
-
-    # counter
-    [params.counter]
-    enable = false
-    bgImage = "images/backgrounds/bg-1.jpg"
-        [[params.counter.counterItem]]
-        title = "Happy Clients"
-        icon = "tf-ion-android-happy"
-        count = "320"
-
-        [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
-        count = "565"
-
-        [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
-        count = "95"
-
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
-        icon = "tf-ion-coffee"
-        count = "2500"
 
     # footer
     [params.footer]
