@@ -1,0 +1,8 @@
+enable : true
+#heading: ブログ
+#headingSpan: です
+sharing : true
+staticmanComments:
+  enable: false
+  notifications: true
+  api: https://dev.staticman.net/v3/entry/github/themefisher/meghna-hugo/master/comments
