@@ -1,3 +1,22 @@
 .portfolio-block .caption {
   width: 80%;
 }
+
+#single-page-icatch {
+  background-color: #efefef;
+  padding-top: 2rem;
+}
+
+#single-page-icatch h1 {
+  color: #444;
+}
+
+#single-page-icatch li a {
+  color: #737f8a;
+}
+
+#single-page-content {
+  background-color: #efefef;
+  color: #444;
+  padding-bottom: 1rem;
+}
