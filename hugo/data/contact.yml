@@ -2,10 +2,13 @@ enable : true
 heading : お問い合
 headingSpan : わせ
 title : Contact Details
-content: 質問等ありましたら メール や Twitter でお問い合わせください。
+content: 質問等ありましたらメールやTwitter、Slackなどでお問い合わせください。
 contactDetails :
   - icon : tf-ion-social-twitter
     info : "Twitter: @gorilla0513"
 
   - icon : tf-ion-ios-email
     info : "Email: gorilla.vim@gmail.com"
+
+  - icon : tf-ion-chatbox
+    info : "Slack: vim-jp.slack.com (https://vim-jp.org/docs/chat.html)"

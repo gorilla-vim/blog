@@ -1,3 +1,11 @@
+body {
+  color: #c3cfda;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
 .portfolio-block .caption {
   width: 80%;
 }
@@ -19,4 +27,12 @@
   background-color: #efefef;
   color: #444;
   padding-bottom: 1rem;
+}
+
+#single-page-content h2 {
+  color: #444;
+  border-left: 7px solid #555;
+  border-bottom: 1px solid #555;
+  padding-left: 1rem;
+  margin: 2rem 0;
 }
