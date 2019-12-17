@@ -1,7 +1,7 @@
 enable : true
 image : images/about/about-business-man.jpg
 title: Vimmer達の集い
-description: ゴリラ.vimはVimを愛するVimmer達の集いの会です。 知見の共有と親睦を深めることを目的としています。月一ペースで都内で場所を借りて、LTや懇親会をします。
+description: ゴリラ.vimはVimを愛するエンジニア達の集いの会です。 知見の共有と親睦を深めることを目的としています。月一ペースで都内で場所を借りて、LTや懇親会をします。
 description2 :
 aboutItem :
   - icon : tf-circle-compass
