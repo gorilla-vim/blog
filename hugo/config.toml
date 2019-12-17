@@ -48,7 +48,6 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area3.jpg"
-    icon = "tf-ion-play"
     heading = "ゴリラ.vim"
     content= "Vimmerの集い"
     btn = false
