@@ -13,28 +13,28 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About"
+    name = "ゴリラ.vimとは"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "活動内容"
     URL = "portfolio"
     weight = 3
 
     [[menu.nav]]
-    name = "Blog"
+    name = "ブログ"
     URL = "blog"
     weight = 4
 
     [[menu.nav]]
-    name = "Contact"
+    name = "お問い合わせ"
     URL = "contact-us"
     weight = 5
 
 # Site params
 [params]
-home= "Home"
+home= "ホーム"
 logo = "images/gorilla-logo.png"
 # gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data

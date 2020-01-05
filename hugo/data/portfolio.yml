@@ -2,34 +2,36 @@ enable : true
 heading : これまでの
 headingSpan : 活動
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : lt
+    filterTitle : LT
 
-  - filterType : design
-    filterTitle : Design
+  - filterType : socialGathering
+    filterTitle : 懇親会
 
-  - filterType : development
-    filterTitle : Development
+  - filterType : liveCoding
+    filterTitle : ライブコーディング
+
+  - filterType : handsOn
+    filterTitle : ハンズオン
 
 portfolioItem :
-  - types : design, photography
+  - types : lt, socialGathering
     image : images/portfolio/gorilla-vim-connpass-image.png
     icon : tf-ion-android-search
     URL: https://gorillavim.connpass.com/event/157124/
     title: ゴリラ.vim \#11（忘年会
     description: 第11回目の開催です！年末ということで忘年会やります。いきなり懇親会します！
 
-  - types : design, photography
+  - types : lt, socialGathering
     image : images/portfolio/gorilla-vim-connpass-image.png
     icon : tf-ion-android-search
     URL: https://gorillavim.connpass.com/event/153765/
     title: 非公式VimConf後夜祭 with girls.vim
     description: 非公式VimConf後夜祭 と題して、girls.vimさんと共同で開催しました。VimConf2019の内容に関するLTに加え、VimConfの運営に携わっているKoRoNさんから赤裸々な運営事情の共有いただきました。
 
-  - types : design, photography
+  - types : lt, socialGathering
     image : images/portfolio/gorilla-vim-connpass-image.png
     icon : tf-ion-android-search
     URL : https://gorillavim.connpass.com/
     title: ゴリラ.vim \\#1
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-
